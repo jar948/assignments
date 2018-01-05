@@ -1,0 +1,1 @@
+I analyzed how many expense claims were made above $1000 for a purpose incorporating the word ‘Carpet’. There were a total of 13 claims made, 6 of which were from the Furnishings office, and 2 from the Chief Admin Officer of the House. The mean amount claimed was $18,264.84, with a standard deviation of 42,625.12.
